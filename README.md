@@ -3,7 +3,7 @@
 
 Dit project wordt gebruikt door de volgende servers:
 
-- Assen Roleplay
+- Assen Roleplay (Gestopt)
 - TDA Remake`s
 
  
